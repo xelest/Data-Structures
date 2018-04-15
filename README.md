@@ -2,8 +2,8 @@
 This is a demo for a Singly Linked List , Doubly Linked List and a Multi Linked List 
 
 
-==================================================================
-                         PATHFINDER.CPP
+===================================================================
+                         PATHFINDER.CPP
 ==================================================================
 //Authors: HERNANDEZ, Mark Anthony V. & MONSERRATE, Jeremy James
 //MALAYAN COLLEGES LAGUNA
