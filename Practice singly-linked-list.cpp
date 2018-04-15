@@ -1,5 +1,5 @@
 //Practice Singly Linked List
-//Created by: Charlene Diana Schenk
+//Created by: Mark Anthony Hernandez
 
 #include <stdlib.h>
 #include <stdio.h>
@@ -10,9 +10,10 @@ using namespace std;
 struct Node{
 	int data;
 	Node *next;
-};
+}Node *head,*current,*newNode;
 
 int main(){
+	
 	Node *head,*newNode,*current,*temp,*temp2;
 
 	head=new Node();
