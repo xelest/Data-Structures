@@ -1,7 +1,7 @@
 
 //Authors: HERNANDEZ, Mark Anthony V. & MONSERRATE, Jeremy James
 //MALAYAN COLLEGES LAGUNA
-//August 12, 2018
+//August 12, 2017
 //Machine Problem: PATH FINDER
 
 #include <stdio.h>
